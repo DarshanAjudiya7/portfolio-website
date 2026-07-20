@@ -69,7 +69,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I'm Darshan Ajudiya, a Full-stack Developer.
+            Hi! I&apos;m Darshan Ajudiya, a Full-stack Developer.
           </p>
 
           <a href="#about">
