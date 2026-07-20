@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Darshan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Darshan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Darshan is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Darshan has always been a smooth and inspiring experience. He has an exceptional ability to transform ideas into polished, user-friendly web applications. His attention to detail, problem-solving mindset, and commitment to writing clean code make him someone you can always rely on. Beyond his technical expertise, he's an excellent teammate who genuinely cares about delivering the best possible outcome.",
+    name: "Heer Vaddoriya",
+    title: "UI/UX Designer",
   },
   {
     quote:
-      "Collaborating with Darshan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Darshan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Darshan is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Darshan is one of the most dedicated developers I've worked with. Whether it's solving complex technical challenges, learning a new technology overnight, or refining the smallest details, he consistently goes above and beyond. His passion for web development and continuous improvement is evident in every project he builds. Any team would be fortunate to have someone with his drive and work ethic.",
+    name: "Urvil Patel",
+    title: "Full Stack Developer",
   },
   {
     quote:
-      "Collaborating with Darshan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Darshan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Darshan is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Darshan combines creativity with strong technical skills to create applications that are both functional and visually impressive. He approaches every challenge with confidence, communicates effectively, and always looks for the most efficient solution. His professionalism, curiosity, and willingness to help others make him an outstanding developer and collaborator.",
+    name: "Viveksinh Chavda",
+    title: "Software Engineer",
   },
   {
     quote:
-      "Collaborating with Darshan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Darshan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Darshan is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Darshan has been a fantastic experience. As a backend developer, I truly appreciate his ability to build clean, responsive, and intuitive frontend applications that integrate seamlessly with backend systems. He writes maintainable code, communicates effectively, and always considers the bigger picture while developing features. His dedication to quality, eagerness to learn, and collaborative mindset make him an excellent developer and a reliable teammate for any project.",
+    name: "Jeel Kalathiya",
+    title: "Backend Developer",
   },
   {
     quote:
-      "Collaborating with Darshan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Darshan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Darshan is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Darshan brings energy, innovation, and dedication to every project he takes on. He isn't satisfied with simply making things work—he focuses on creating products that are scalable, modern, and enjoyable to use. His strong technical foundation, eagerness to learn, and collaborative nature make working with him both productive and enjoyable. I highly recommend Darshan to anyone looking for a skilled and dependable developer.",
+    name: "Harin Tandel",
+    title: "Software Developer",
   },
 ];
 
